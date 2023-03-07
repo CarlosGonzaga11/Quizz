@@ -1,0 +1,48 @@
+.container-app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-self: center;
+  gap: 3rem;
+  background-color: #f9f9f9;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 2.6rem;
+}
+.container-game {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+}
+.game {
+  padding: 20px;
+  border: 1px solid black;
+  width: 90%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2em;
+  transition: 200ms ease-in-out;
+  border-radius: 20px;
+  font-size: 1.5rem;
+}
+.game:hover {
+  background-color: white;
+  transform: scale(1.05);
+}
+.link {
+  text-decoration: none;
+  width: 100%;
+  font-size: 1.3rem;
+}
+.button-game {
+  width: 60%;
+  height: 40px;
+}

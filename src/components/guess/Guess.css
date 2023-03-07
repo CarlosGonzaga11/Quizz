@@ -1,0 +1,39 @@
+.App {
+  background: #ffffff;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+.container-guess {
+  display: flex;
+  background-color: #444444;
+  color: #ffb800;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid black;
+  width: 60%;
+  height: 50%;
+  border-radius: 20px;
+}
+.points {
+  font-size: 2.4rem;
+}
+input {
+  width: 150px;
+  height: 30px;
+  outline: none;
+  border-radius: 15px;
+  padding-left: 10px;
+  font-size: 1.2rem;
+}
+.container-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
