@@ -2,7 +2,7 @@
 <h2>Quizz</h2>
 </div>   
 
-> :rocket: Transparent Login
+> :rocket: Game Quizz
 
 # :pushpin: Conteúdo
 
