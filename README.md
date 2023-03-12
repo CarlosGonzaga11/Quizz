@@ -2,7 +2,7 @@
 <h2>Quizz</h2>
 </div>   
 
-> :rocket: Gerador de QRCcode
+> :rocket: Transparent Login
 
 # :pushpin: Conteúdo
 
